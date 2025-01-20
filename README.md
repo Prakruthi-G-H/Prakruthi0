@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/prakruthi-g-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/prakruthi-g-h" height="30" width="40" /></a>
-<a href="https://instagram.com/prakruthi_gh_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakruthi_gh_28" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@prakruthigh28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prakruthigh28" height="30" width="40" /></a>
 </p>
 
